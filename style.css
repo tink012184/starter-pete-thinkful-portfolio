@@ -93,3 +93,12 @@ hr {
 .item-3 {
   flex: 3;
 }
+
+.item-4 {
+  flex: 1;
+  margin: 10px;
+}
+
+.desc {
+  font-size: 14px;
+}
